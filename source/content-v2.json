@@ -1073,6 +1073,10 @@
       "Grab Rent: coche con conductor por horas",
       "https://www.grab.com/th/en/transport/rent/"
     ],
+    "grab-bike": [
+      "GrabBike: moto con conductor en Bangkok",
+      "https://www.grab.com/th/en/transport/bike/"
+    ],
     "thai-words": [
       "Frases en tailandés: documento de bienvenida en Bangkok",
       "https://www.fisheries-refugia.org/events/181204_1st_PSC/documents/01-FR-PSC1_Inf1_Information%20Note.pdf"
@@ -1137,9 +1141,11 @@
       "title": "Grab: para moverte sin complicarte",
       "tag": "TRANSPORTE",
       "body": "Es la app tipo Uber del sudeste asiático: puedes pedir coche o taxi y consultar el precio. Para trayectos entre ciudades, mira si acepta el destino y hay conductor disponible.",
+      "bike": "Con tanto tráfico, yo tiraría de GrabBike para muchos trayectos en Bangkok: vas de pasajero con un conductor y suele ser bastante más ágil que el coche. Ponte casco; con maletas o lluvia fuerte, me iría en coche.",
       "extra": "Como orientación, tengo en mente unos 50 € para un coche en un trayecto de unas 3 horas. No es una tarifa fija: confirma el precio, los peajes y el recorrido antes de reservar.",
       "note": "Grab Rent es el servicio por horas y tiene condiciones de zona y regreso; no es lo mismo que un traslado de ida a otra ciudad.",
       "refs": [
+        "grab-bike",
         "grab",
         "grab-rent"
       ]
