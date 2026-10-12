@@ -32,6 +32,6 @@ La salida actualiza `index.html` y `source/content-v2.json`. Las fotografías, c
 
 ## Fuentes y licencias
 
-Los enlaces de referencia y créditos completos están en el pie de la guía. Las fotos de Wikimedia Commons tienen sus licencias individuales; algunas imágenes ilustran platos o entornos, y se indica en las fichas. Leaflet conserva su licencia en `source/vendor/leaflet-license.txt`.
+Las referencias y los créditos de la foto se consultan al abrir las fichas de los lugares. Las fotos de Wikimedia Commons tienen sus licencias individuales; algunas imágenes ilustran platos o entornos, y se indica en las fichas. Leaflet conserva su licencia en `source/vendor/leaflet-license.txt`.
 
 Las condiciones de transporte, precios, horarios y clima pueden cambiar. Los ejemplos económicos son orientativos y los patrones de diciembre no son un pronóstico.
