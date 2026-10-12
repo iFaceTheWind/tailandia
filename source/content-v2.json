@@ -1,0 +1,1165 @@
+{
+  "places": [
+    {
+      "id": "chinatown",
+      "name": "Chinatown / Yaowarat",
+      "region": "bangkok",
+      "kind": "zona",
+      "origin": "personal",
+      "coord": [
+        13.7413,
+        100.51
+      ],
+      "photo": "chinatown",
+      "short": "Callejuelas, puestos y mucho pulso.",
+      "detail": "Para mí, una visita imprescindible. Pasear por las callejuelas y mercados, detenerse a comer y volver a Yaowarat por la noche.",
+      "notes": "Para dormir: te quedas dentro del ambiente. Si buscas silencio, revisa la calle concreta y las reseñas del alojamiento.",
+      "refs": [
+        "bangkok"
+      ],
+      "quote": "es bastante loco y curioso",
+      "stay": true,
+      "routeStop": true
+    },
+    {
+      "id": "west",
+      "name": "Orilla oeste / Thonburi",
+      "region": "bangkok",
+      "kind": "zona",
+      "origin": "personal",
+      "coord": [
+        13.7382,
+        100.492
+      ],
+      "photo": "river",
+      "short": "Mi opción para un ritmo más local.",
+      "detail": "Recuerdo las zonas al oeste y suroeste del río como más locales y tranquilas. Kudi Chin y el entorno de Wat Arun ayudan a situar las zonas que marqué en el mapa.",
+      "notes": "La zona es amplia: el silencio depende de la calle. Cuenta con cruzar el río o desplazarte para las visitas de la otra orilla.",
+      "refs": [
+        "bangkok"
+      ],
+      "stay": true
+    },
+    {
+      "id": "oldtown",
+      "name": "Casco antiguo / Rambuttri",
+      "region": "bangkok",
+      "kind": "zona",
+      "origin": "mapa",
+      "coord": [
+        13.7579,
+        100.496
+      ],
+      "photo": "river",
+      "short": "Dormir cerca de las visitas principales.",
+      "detail": "Una referencia para la zona norte que marqué en el mapa: casco antiguo, entorno de Rambuttri y proximidad a las visitas clásicas.",
+      "notes": "Los nombres ayudan a situar mi dibujo. No tengo un hotel concreto para recomendar aquí. Khao San queda cerca, pero no la considero imprescindible.",
+      "refs": [
+        "bangkok",
+        "palace"
+      ],
+      "stay": true
+    },
+    {
+      "id": "klongsan",
+      "name": "Khlong San / ribera oeste",
+      "region": "bangkok",
+      "kind": "zona",
+      "origin": "mapa",
+      "coord": [
+        13.7284,
+        100.5045
+      ],
+      "photo": "iconsiam",
+      "short": "Otra base junto al río, al sur del casco antiguo.",
+      "detail": "Referencia para el área suroeste que marqué en el mapa. Permite combinar la ribera con ICONSIAM y salir hacia otras zonas de Bangkok.",
+      "notes": "No tengo un hotel concreto para recomendar aquí. Ubicación y conexiones importan más que asumir que toda la orilla es tranquila.",
+      "refs": [
+        "iconsiam"
+      ],
+      "stay": true
+    },
+    {
+      "id": "bacc",
+      "name": "Siam + BACC",
+      "region": "bangkok",
+      "kind": "visita",
+      "origin": "personal",
+      "coord": [
+        13.7467,
+        100.53
+      ],
+      "photo": "bacc",
+      "short": "Arte y centros comerciales: el contraste moderno.",
+      "detail": "Esta es la zona que recuerdo como el gran contraste moderno de Bangkok. BACC está frente a MBK y Siam Discovery. Entra a ver arte y luego camina por la zona de Siam.",
+      "notes": "La web oficial anuncia cierre los lunes. Revisa exposiciones y aperturas antes de ir. No confundir BACC con MOCA, que está en otra zona.",
+      "refs": [
+        "bacc"
+      ],
+      "timing": "Día / tarde"
+    },
+    {
+      "id": "iconsiam",
+      "name": "ICONSIAM / SOOKSIAM",
+      "region": "bangkok",
+      "kind": "visita",
+      "origin": "probable",
+      "coord": [
+        13.7265,
+        100.51
+      ],
+      "photo": "iconsiam",
+      "short": "Un centro comercial con todo un mercado dentro.",
+      "detail": "SOOKSIAM ocupa la planta G de ICONSIAM y reúne comida y productos tailandeses. Es un buen contraste entre mercado y gran centro comercial.",
+      "notes": "Creo que este fue el centro comercial que visité, aunque no lo recuerdo con total seguridad. El mercado interior está preparado para visitantes; no sustituye a un mercado de barrio.",
+      "refs": [
+        "iconsiam"
+      ],
+      "timing": "Día / tarde"
+    },
+    {
+      "id": "chop",
+      "name": "Chop Chop Cook Shop",
+      "region": "bangkok",
+      "kind": "comer",
+      "origin": "personal",
+      "coord": [
+        13.741431,
+        100.5076983
+      ],
+      "photo": "duck",
+      "short": "El pato de Chinatown que recomiendo sí o sí.",
+      "detail": "En 328 Yaowarat Road. Fui y el pato me pareció espectacular. La web del restaurante incluye pato asado y sopa de noodles con pato.",
+      "notes": "La foto ilustra noodles con pato; no es una foto de este restaurante. Consulta la carta y la apertura del día.",
+      "refs": [
+        "chop"
+      ],
+      "maps": "https://maps.app.goo.gl/WJV3DA6bkDNrxBcp7",
+      "dish": "Pato asado / noodles con pato",
+      "photoExample": true,
+      "quote": "tienen que probar el pato sí o sí porque es espectacular"
+    },
+    {
+      "id": "masaru",
+      "name": "Masaru Shabu & Sushi Buffet",
+      "region": "bangkok",
+      "kind": "comer",
+      "origin": "personal",
+      "coord": [
+        13.8022763,
+        100.6185798
+      ],
+      "photo": "shabu",
+      "short": "Shabu-shabu con sushi: otro de mis favoritos.",
+      "detail": "Fui y me encantó. El enlace apunta a la sede de Pradit Manutham Road, Bang Kapi. Un bonus japonés dentro del viaje por Bangkok.",
+      "notes": "Está fuera del centro histórico: haz el desplazamiento porque te apetece el restaurante. Consulta la sede y condiciones del buffet. La foto es un ejemplo de shabu-shabu, no del local.",
+      "refs": [
+        "masaru"
+      ],
+      "maps": "https://maps.app.goo.gl/BFbGYNGdekBp51HA6",
+      "dish": "Shabu-shabu + sushi",
+      "photoExample": true,
+      "far": true,
+      "quote": "me flipó"
+    },
+    {
+      "id": "mango",
+      "name": "K. Panich / Kor Panich",
+      "region": "bangkok",
+      "kind": "comer",
+      "origin": "research",
+      "coord": [
+        13.7523,
+        100.497
+      ],
+      "photo": "mango",
+      "short": "Mango, arroz pegajoso y leche de coco.",
+      "detail": "Para probar mango sticky rice. La guía Michelin sitúa K. Panich en 431–433 Tanao Road, en el casco antiguo.",
+      "notes": "Es una casa conocida, no un sitio secreto. La fotografía ilustra el plato y no procede de K. Panich. Revisa la apertura y disponibilidad de mango.",
+      "refs": [
+        "mango"
+      ],
+      "dish": "Mango sticky rice",
+      "photoExample": true,
+      "timing": "Día"
+    },
+    {
+      "id": "lim",
+      "name": "Lim Lao Ngow / Chinatown",
+      "region": "bangkok",
+      "kind": "comer",
+      "origin": "research",
+      "coord": [
+        13.7387,
+        100.5091
+      ],
+      "photo": "chinatown",
+      "short": "Otra forma de comer noodles: con bolas de pescado.",
+      "detail": "el plato típico de la casa combina noodles y bolas de pescado. Busca la ubicación de Chinatown al abrir Maps.",
+      "notes": "La marca tiene varias sedes. Comprueba que vas a la de Chinatown; el punto del mapa es orientativo. La imagen muestra el barrio, no el restaurante.",
+      "refs": [
+        "lim"
+      ],
+      "dish": "Noodles con bolas de pescado",
+      "timing": "Consultar sede",
+      "photoArea": true
+    },
+    {
+      "id": "huai",
+      "name": "Huai Khwang",
+      "region": "bangkok",
+      "kind": "mercado",
+      "origin": "research",
+      "coord": [
+        13.778,
+        100.5688
+      ],
+      "photo": "chinatown",
+      "short": "Una salida nocturna con comida y vida de barrio.",
+      "detail": "Ya lo había recomendado en un mensaje antiguo. Para esta guía se ha contrastado con la guía de la ciudad y relatos de viajeros que buscan mercados menos centrados en visitantes extranjeros.",
+      "notes": "No promete ausencia de turistas. Ubicación orientativa: abre la búsqueda del mercado en Maps y comprueba el acceso. La foto de cabecera es de Chinatown, no de Huai Khwang.",
+      "refs": [
+        "huai",
+        "forum-market"
+      ],
+      "timing": "Tarde / noche",
+      "photoArea": true
+    },
+    {
+      "id": "talat",
+      "name": "Talat Phlu",
+      "region": "bangkok",
+      "kind": "mercado",
+      "origin": "research",
+      "coord": [
+        13.7211,
+        100.4762
+      ],
+      "photo": "river",
+      "short": "Comer entre calles de barrio y el entorno del tren.",
+      "detail": "En la orilla oeste. Turismo de Tailandia destaca sus negocios de comida; puedes buscar Sunee Khao Moo Daeng para cerdo con arroz y Ni-Ang para postres.",
+      "notes": "Es una zona con locales de horarios distintos, no un recinto que abre entero a una sola hora. Combina tarde y primeras horas de la noche; revisa cada puesto. La foto sitúa la orilla oeste, no el mercado.",
+      "refs": [
+        "talat"
+      ],
+      "timing": "Tarde / primeras horas de noche",
+      "photoArea": true
+    },
+    {
+      "id": "wang",
+      "name": "Wang Lang",
+      "region": "bangkok",
+      "kind": "mercado",
+      "origin": "research",
+      "coord": [
+        13.7566,
+        100.4854
+      ],
+      "photo": "river",
+      "short": "Comida, ropa y compras en la orilla oeste.",
+      "detail": "Junto a Siriraj. Un mercado para pasear por puestos de comida, dulces y objetos cotidianos.",
+      "notes": "Ve de día: Turismo de Tailandia publica 09:00–18:00. No lo plantees como mercado nocturno. Fotografía de la ribera, no del mercado.",
+      "refs": [
+        "wang"
+      ],
+      "timing": "De día",
+      "photoArea": true
+    },
+    {
+      "id": "flowers",
+      "name": "Pak Khlong Talat",
+      "region": "bangkok",
+      "kind": "mercado",
+      "origin": "research",
+      "coord": [
+        13.742,
+        100.4968
+      ],
+      "photo": "river",
+      "short": "Flores de noche: un paseo con otra energía.",
+      "detail": "Para ver un mercado dedicado a flores y productos frescos cerca del río. Por la noche, el plan principal son las flores.",
+      "notes": "No es la elección principal para cenar. Puedes combinarlo con el casco antiguo y la ribera. Fotografía de contexto del río.",
+      "refs": [
+        "flowers"
+      ],
+      "timing": "Noche / flores",
+      "photoArea": true
+    },
+    {
+      "id": "sampeng",
+      "name": "Sampeng",
+      "region": "bangkok",
+      "kind": "mercado",
+      "origin": "research",
+      "coord": [
+        13.7403,
+        100.5072
+      ],
+      "photo": "chinatown",
+      "short": "Las callejuelas comerciales de Chinatown.",
+      "detail": "Una propuesta concreta para aquel paseo que recuerdo: puestos, pequeños artículos, accesorios y calles estrechas en el entorno de Chinatown.",
+      "notes": "Sampeng es una zona comercial; no todas las tiendas venden falsificaciones. Mejor separar este paseo de la visita a Yaowarat para comer por la noche.",
+      "refs": [
+        "bangkok"
+      ],
+      "timing": "De día"
+    },
+    {
+      "id": "mbk",
+      "name": "MBK Center",
+      "region": "bangkok",
+      "kind": "compras",
+      "origin": "research",
+      "coord": [
+        13.7445,
+        100.5296
+      ],
+      "photo": "bacc",
+      "short": "La referencia para compras y falsificaciones.",
+      "detail": "Junto a BACC. MBK reúne comercios variados y aparece documentado por autoridades por la venta de falsificaciones y operaciones de incautación.",
+      "notes": "La oferta cambia y no todo puesto vende falsificaciones. No des por original una marca por su logo ni esperes garantías de un producto de imitación. La foto muestra BACC, al lado de MBK.",
+      "refs": [
+        "mbk",
+        "bacc"
+      ],
+      "timing": "Día / tarde",
+      "photoArea": true
+    },
+    {
+      "id": "khaosan",
+      "name": "Khao San Road",
+      "region": "bangkok",
+      "kind": "fiesta",
+      "origin": "personal",
+      "coord": [
+        13.7588,
+        100.4974
+      ],
+      "photo": "chinatown",
+      "short": "La fiesta más guiri: mochileros, música y mucho jaleo.",
+      "detail": "Salí una noche aquí. Está llena de viajeros y me pareció muy turística. Si te apetece ese jaleo, puedes pasar a verla; yo no la pondría por delante de otros planes.",
+      "notes": "Si te apetece verla, ve con esa expectativa. Tampoco priorizaría rooftops; disfruté varios bares sueltos, pero ahora no recuerdo sus nombres.",
+      "refs": [
+        "party"
+      ],
+      "timing": "Mochilero / turístico",
+      "photoArea": true,
+      "lowPriority": true
+    },
+    {
+      "id": "sam",
+      "name": "Sam Roi Yot / Phraya Nakhon",
+      "region": "sur",
+      "kind": "visita",
+      "origin": "personal",
+      "coord": [
+        12.1957,
+        100.011
+      ],
+      "photo": "sam",
+      "short": "La cueva que convierte una parada en un recuerdo.",
+      "detail": "Paramos aquí entre Bangkok y Chumphon. Un resort tranquilo, carreteras rurales y una subida exigente hasta el pabellón dentro de la cueva.",
+      "notes": "Calzado y agua para la subida. Confirma el acceso con el parque si ha llovido. No es un lugar desconocido ni garantiza visitarlo a solas.",
+      "refs": [
+        "sam"
+      ]
+    },
+    {
+      "id": "chumphon",
+      "name": "Chumphon",
+      "region": "sur",
+      "kind": "visita",
+      "origin": "personal",
+      "coord": [
+        10.498,
+        99.18
+      ],
+      "photo": "chumphon",
+      "short": "Ciudad, playa y caminos fuera del centro.",
+      "detail": "Mi amigo y yo pasamos un par de noches en un bungalow a las afueras. Nos movimos por la ciudad y alrededores y visitamos una playa cercana.",
+      "notes": "Thung Wua Laen es una opción para concretar la costa, no la playa que recuerdo de nuestro viaje. En diciembre puede seguir lloviendo en el Golfo.",
+      "refs": [
+        "chumphon",
+        "monsoon"
+      ]
+    },
+    {
+      "id": "tao",
+      "name": "Koh Tao",
+      "region": "sur",
+      "kind": "visita",
+      "origin": "personal",
+      "coord": [
+        10.087,
+        99.831
+      ],
+      "photo": "tao",
+      "short": "Snorkel cada día y ambiente por la noche.",
+      "detail": "Nos quedamos unas cinco noches o una semana: snorkel diario, pubs y pub crawls. La isla es turística, pero disfrutamos mucho su ambiente.",
+      "notes": "Mi viaje fue en agosto. La fuente oficial sitúa el monzón entre noviembre y enero: en diciembre depende del mar. Conducir aquí me resultó más complicado.",
+      "refs": [
+        "tao"
+      ]
+    },
+    {
+      "id": "tanote",
+      "name": "Tanote Bay / Ao Tanote Beach",
+      "region": "sur",
+      "kind": "visita",
+      "origin": "personal",
+      "coord": [
+        10.0847563,
+        99.8479834
+      ],
+      "photo": "tao",
+      "short": "La playa que más me gustó para hacer snorkel.",
+      "detail": "Es la playa que guardé en mi lista: de las que probamos para snorkel, fue la mejor para nosotros.",
+      "notes": "La foto ilustra una bahía de Koh Tao, no Tanote. La visibilidad y las corrientes cambian: pregunta por las condiciones del día antes de entrar.",
+      "refs": [
+        "tao",
+        "safety"
+      ],
+      "maps": "https://maps.app.goo.gl/SQQ3vrtycZAJ3CkDA",
+      "photoArea": true,
+      "quote": "Para snorkel esta es la mejor que estuvimos"
+    },
+    {
+      "id": "duck995",
+      "name": "995 Roasted Duck",
+      "region": "sur",
+      "kind": "comer",
+      "origin": "personal",
+      "coord": [
+        10.0993484,
+        99.8308992
+      ],
+      "photo": "duck",
+      "short": "Los noodles de pato del viaje con mi amigo.",
+      "detail": "Uno de mis favoritos de Koh Tao. Mi amigo y yo disfrutamos mucho este plato.",
+      "notes": "En Sairee. La fotografía muestra un ejemplo de noodles con pato, no del restaurante. Consulta la apertura del día.",
+      "refs": [
+        "tao"
+      ],
+      "maps": "https://maps.app.goo.gl/oX2w6Npt3Gz8PzoS8",
+      "dish": "Noodles de pato",
+      "photoExample": true
+    },
+    {
+      "id": "porkleg",
+      "name": "Pork Leg Restaurant Thai Food",
+      "region": "sur",
+      "kind": "comer",
+      "origin": "personal",
+      "coord": [
+        10.0994074,
+        99.8313513
+      ],
+      "photo": "pork",
+      "short": "El codillo que nos hizo flipar.",
+      "detail": "Otra recomendación personal en Sairee, Koh Tao: cerdo cocinado lentamente. Khao kha mu es el nombre de un plato tailandés de pierna de cerdo con arroz.",
+      "notes": "La foto es un ejemplo de khao kha mu, no del plato exacto que me sirvieron. Comprueba la carta.",
+      "refs": [
+        "tao"
+      ],
+      "maps": "https://maps.app.goo.gl/Va3WcsvGMajQpkiP7",
+      "dish": "Codillo / pierna de cerdo",
+      "photoExample": true
+    },
+    {
+      "id": "khaosoi",
+      "name": "KHAO SOI IN SOI",
+      "region": "sur",
+      "kind": "comer",
+      "origin": "personal",
+      "coord": [
+        10.1002676,
+        99.8335186
+      ],
+      "photo": "khaosoi",
+      "short": "Khao soi: curry, noodles y mucho sabor.",
+      "detail": "Un sitio que guardé para probar khao soi, un plato del norte que me pareció espectacular. El local está en Koh Tao.",
+      "notes": "La ficha actual se llama KHAO SOI IN SOI; el enlace antiguo decía Best Khao Soi by Idjang’s kitchen. Confirma el nombre y la ubicación en Maps antes de ir. La foto ilustra el plato, no el local.",
+      "refs": [
+        "tao"
+      ],
+      "maps": "https://maps.app.goo.gl/gCVfXapDCFeyRKZp6",
+      "dish": "Khao soi",
+      "photoExample": true
+    },
+    {
+      "id": "libong",
+      "name": "Koh Libong",
+      "region": "sur",
+      "kind": "visita",
+      "origin": "personal",
+      "coord": [
+        7.248,
+        99.401
+      ],
+      "photo": "libong",
+      "short": "Playa y vida local, sin buscar fiesta.",
+      "detail": "La recuerdo muy tranquila: playa, explorar la isla y vida cotidiana en una comunidad tradicional de pescadores musulmanes.",
+      "notes": "La tranquilidad es mi recuerdo, no una garantía de cero visitantes. Respeta la comunidad y la vestimenta fuera de la playa. Moto solo si sabes conducir.",
+      "refs": [
+        "libong",
+        "december"
+      ],
+      "routeStop": true
+    },
+    {
+      "id": "lipe",
+      "name": "Koh Lipe",
+      "region": "sur",
+      "kind": "visita",
+      "origin": "personal",
+      "coord": [
+        6.4885,
+        99.304
+      ],
+      "photo": "lipe",
+      "short": "A pie, de playa en playa. Y snorkel.",
+      "detail": "Me parece preciosa, con snorkel increíble y más movimiento que Libong. Se puede recorrer andando.",
+      "notes": "Está muy al sur: cuenta con el traslado y quédate para disfrutarla. Andamán suele encajar mejor para mar en diciembre que el Golfo; confirma barcos y tiempo.",
+      "refs": [
+        "december",
+        "monsoon"
+      ],
+      "routeStop": true
+    },
+    {
+      "id": "mai",
+      "name": "Chiang Mai / Wat Umong",
+      "region": "norte",
+      "kind": "visita",
+      "origin": "research",
+      "coord": [
+        18.783,
+        98.951
+      ],
+      "photo": "mai",
+      "short": "Una base de templos y escapadas a la montaña.",
+      "detail": "combinar ciudad y un templo de bosque como Wat Umong. Desde Chiang Mai elige una escapada que encaje con tu ritmo.",
+      "notes": "No conozco personalmente el norte. Diciembre es temporada alta: turismo de montaña no significa ausencia de visitantes.",
+      "refs": [
+        "mai",
+        "december"
+      ]
+    },
+    {
+      "id": "dao",
+      "name": "Chiang Dao",
+      "region": "norte",
+      "kind": "visita",
+      "origin": "research",
+      "coord": [
+        19.394,
+        98.922
+      ],
+      "photo": "dao",
+      "short": "Montaña, templo de bosque y menos vida nocturna.",
+      "detail": "En relatos de viajeros aparece como alternativa más tranquila a Pai. Puedes combinar Wat Tham Pha Plong, la cueva de Chiang Dao y el entorno rural.",
+      "notes": "Es una rama propia desde Chiang Mai, no una parada en la carretera directa a Pai. Para rutas en áreas protegidas, confirma guía y permisos.",
+      "refs": [
+        "dao",
+        "north-forum"
+      ]
+    },
+    {
+      "id": "pai",
+      "name": "Pai",
+      "region": "norte",
+      "kind": "visita",
+      "origin": "research",
+      "coord": [
+        19.359,
+        98.44
+      ],
+      "photo": "pai",
+      "short": "Bonito paisaje y bastante ambiente viajero.",
+      "detail": "Los foros ofrecen opiniones contrapuestas: a unos les encanta el entorno y otros encuentran su centro muy turístico. Pai Canyon es un lugar conocido para ver paisaje.",
+      "notes": "La carretera Chiang Mai–Pai es de montaña: no es para aprender moto. Reserva tiempo para las curvas y paradas; consulta la duración con el transporte elegido.",
+      "refs": [
+        "pai",
+        "north-forum"
+      ]
+    },
+    {
+      "id": "lod",
+      "name": "Pang Mapha / Tham Nam Lod",
+      "region": "norte",
+      "kind": "visita",
+      "origin": "research",
+      "coord": [
+        19.571,
+        98.28
+      ],
+      "photo": "pai",
+      "short": "Más allá de Pai: cueva y actividades con guías locales.",
+      "detail": "Turismo de Tailandia describe visitas en balsa y actividades de la comunidad en Tham Lod. Ban Jabo añade una opción de paisaje y actividades comunitarias.",
+      "notes": "Coordina la visita con la comunidad. Es una continuación que exige tiempo, no una lista de paradas que haya que completar. La foto es del entorno de Pai, no de Tham Lod.",
+      "refs": [
+        "lod",
+        "jabo"
+      ],
+      "photoArea": true
+    },
+    {
+      "id": "rai",
+      "name": "Chiang Rai / Mae Salong",
+      "region": "norte",
+      "kind": "visita",
+      "origin": "research",
+      "coord": [
+        20.165,
+        99.625
+      ],
+      "photo": "rai",
+      "short": "Salir a las colinas del té.",
+      "detail": "Mae Salong / Santikhiri, tiendas de té y paisaje en altura. Una alternativa a limitar Chiang Rai a sus templos más fotografiados.",
+      "notes": "Otra rama del norte: no hace falta añadirla a Pai y Chiang Dao. El acceso a campos y negocios se consulta localmente.",
+      "refs": [
+        "rai"
+      ]
+    },
+    {
+      "id": "soinana",
+      "name": "Soi Nana / Chinatown",
+      "region": "bangkok",
+      "kind": "fiesta",
+      "origin": "research",
+      "coord": [
+        13.7379,
+        100.5144
+      ],
+      "photo": "chinatown",
+      "short": "Bares pequeños y cócteles después de cenar.",
+      "detail": "Cerca de Chinatown, esta calle reúne bares en antiguas casas comerciales. Es una alternativa al jaleo de Khao San para ir de bar en bar.",
+      "notes": "Es Soi Nana en Chinatown, no la zona Nana de Sukhumvit. También atrae visitantes: el plan son los bares, no buscar una calle sin turistas. La foto es de Yaowarat, no de esta calle.",
+      "refs": [
+        "soinana"
+      ],
+      "timing": "Bares / cócteles",
+      "photoArea": true
+    },
+    {
+      "id": "thonglor",
+      "name": "Thonglor / Ekkamai",
+      "region": "bangkok",
+      "kind": "fiesta",
+      "origin": "research",
+      "coord": [
+        13.73,
+        100.582
+      ],
+      "photo": "bacc",
+      "short": "Otro ambiente: bares, música y noche urbana.",
+      "detail": "Dos zonas de Sukhumvit para salir entre bares, restaurantes y clubes. Hay más mezcla de gente que vive en Bangkok y expatriados; el ambiente suele ser más arreglado que en Khao San.",
+      "notes": "Tiene sitios elegantes y precios más altos. Un ambiente más local no significa tradicional ni barato. Punto orientativo de Thonglor; la foto muestra BACC, no el barrio.",
+      "refs": [
+        "nightlife"
+      ],
+      "timing": "Urbano / bares y clubes",
+      "photoArea": true
+    },
+    {
+      "id": "soi11",
+      "name": "Sukhumvit / Soi 11",
+      "region": "bangkok",
+      "kind": "fiesta",
+      "origin": "research",
+      "coord": [
+        13.744,
+        100.5568
+      ],
+      "photo": "bacc",
+      "short": "Muchos bares y clubes juntos; también muy internacional.",
+      "detail": "Una de las calles conocidas para una noche de bares y clubes, en la zona de Nana y Sukhumvit. Encaja si quieres movimiento y varios locales cerca.",
+      "notes": "Tiene bastante público extranjero: no la elegiría buscando el Bangkok más local. No confundir con Soi Nana de Chinatown. Foto de contexto de la ciudad moderna.",
+      "refs": [
+        "party"
+      ],
+      "timing": "Internacional / fiesta",
+      "photoArea": true
+    },
+    {
+      "id": "silom",
+      "name": "Silom / Sathorn",
+      "region": "bangkok",
+      "kind": "fiesta",
+      "origin": "research",
+      "coord": [
+        13.7284,
+        100.5325
+      ],
+      "photo": "bacc",
+      "short": "Bares, música y varias formas de salir.",
+      "detail": "Silom tiene distintos ambientes, incluidos los bares y clubes LGBTQ+ de las sois 2 y 4. Sathorn añade bares para una copa y locales entre las calles del distrito.",
+      "notes": "No todo Silom es Patpong. Elige una calle o local según el ambiente que te apetezca. Punto general del barrio; foto de contexto de la ciudad moderna.",
+      "refs": [
+        "party"
+      ],
+      "timing": "Bares / clubes / LGBTQ+",
+      "photoArea": true
+    },
+    {
+      "id": "craftbeer",
+      "name": "Hair of the Dog / Phrom Phong",
+      "region": "bangkok",
+      "kind": "fiesta",
+      "origin": "research",
+      "coord": [
+        13.7324,
+        100.5694
+      ],
+      "photo": "bacc",
+      "short": "Una parada concreta para cerveza artesanal.",
+      "detail": "Los bares de cervezas artesanales están muy bien. Para empezar, puedes mirar Hair of the Dog: su web anuncia grifos rotatorios y botellas, con sedes en Phrom Phong y Phloen Chit.",
+      "notes": "La sede de Phrom Phong está cerca de Sukhumvit 33/1; la de Phloen Chit, en Mahatun Plaza. Abre la web para elegir sede y consultar horarios. El punto es orientativo y la foto muestra la ciudad, no el bar.",
+      "refs": [
+        "craft"
+      ],
+      "timing": "Cerveza artesanal",
+      "photoArea": true
+    },
+    {
+      "id": "escobar",
+      "name": "Escobar Koh Tao / Jungle Party",
+      "region": "sur",
+      "kind": "fiesta",
+      "origin": "personal",
+      "coord": [
+        10.095,
+        99.832
+      ],
+      "photo": "tao",
+      "short": "Una fiesta en la jungla de Koh Tao.",
+      "detail": "Fuimos a Escobar Koh Tao: una fiesta en la jungla. Es otro plan para una noche en la isla, además de pubs y pub crawls.",
+      "notes": "Consulta el calendario oficial para tus fechas: no supone que haya fiesta cada noche. El punto sitúa la zona de Koh Tao, no la entrada exacta; abre Maps. La fotografía es de una bahía de la isla, no de Escobar.",
+      "refs": [
+        "escobar"
+      ],
+      "timing": "Fiesta / jungla",
+      "photoArea": true
+    },
+    {
+      "id": "ayutthaya",
+      "name": "Ayutthaya",
+      "region": "rutas",
+      "kind": "visita",
+      "origin": "research",
+      "coord": [
+        14.3565,
+        100.5677
+      ],
+      "photo": "ayutthaya",
+      "short": "Ruinas y templos de la antigua capital.",
+      "detail": "Una de las excursiones clásicas desde Bangkok. El parque histórico reúne restos de templos y de la antigua capital del reino de Siam; Wat Mahathat es una de las referencias.",
+      "notes": "Puedes volver a dormir a Bangkok o quedarte una noche. Después, el vuelo hacia Krabi o Phuket se plantea desde Bangkok, no desde Ayutthaya.",
+      "refs": [
+        "ayutthaya"
+      ],
+      "routeStop": true
+    },
+    {
+      "id": "krabi",
+      "name": "Krabi / Ao Nang / Railay",
+      "region": "rutas",
+      "kind": "visita",
+      "origin": "research",
+      "coord": [
+        8.034,
+        98.825
+      ],
+      "photo": "krabi",
+      "short": "Playas, acantilados y excursiones en barco.",
+      "detail": "Krabi es una provincia de Andamán. Ao Nang funciona como base con hoteles, restaurantes y salidas en barco; Railay añade playas entre grandes acantilados de caliza. Es turística, pero tiene paisajes que pueden merecer mucho la pena.",
+      "notes": "Entre Krabi y Phuket, priorizaría Krabi por lo que me han contado. No he visitado ninguna de las dos. Desde aquí puedes continuar hacia Trang y una isla más tranquila.",
+      "refs": [
+        "krabi",
+        "boats"
+      ],
+      "routeStop": true
+    },
+    {
+      "id": "phuket",
+      "name": "Phuket",
+      "region": "rutas",
+      "kind": "visita",
+      "origin": "research",
+      "coord": [
+        7.883,
+        98.389
+      ],
+      "photo": "phuket",
+      "short": "Isla grande, playas y un casco antiguo con carácter.",
+      "detail": "Una alternativa con mucha infraestructura, vuelos, alojamientos y excursiones. Puedes combinar playas como Kata o Karon con el casco antiguo; Patong concentra más jaleo.",
+      "notes": "Es una opción más desarrollada y turística, aunque no toda la isla tiene el mismo ambiente. Si tengo que elegir para este tipo de viaje, me inclinaría por Krabi. No lo digo por una visita propia.",
+      "refs": [
+        "phuket"
+      ],
+      "routeStop": true
+    },
+    {
+      "id": "muk",
+      "name": "Koh Muk / Koh Mook",
+      "region": "rutas",
+      "kind": "visita",
+      "origin": "research",
+      "coord": [
+        7.37,
+        99.307
+      ],
+      "photo": "lipe",
+      "short": "Vida local, playas y la Cueva Esmeralda.",
+      "detail": "Una isla de Trang donde la comunidad local convive con alojamientos y excursiones. Puede encajar para bajar el ritmo y combinar playa con el pueblo. Tham Morakot, la Cueva Esmeralda, es su visita más conocida.",
+      "notes": "No he hecho este recorrido. Koh Muk tiene vida local, pero también turismo; la Cueva Esmeralda recibe excursiones. Coordina su visita con guía y las condiciones del mar. La foto ilustra Andamán en Koh Lipe, no Koh Muk.",
+      "refs": [
+        "muk",
+        "boats"
+      ],
+      "photoArea": true,
+      "routeStop": true
+    }
+  ],
+  "dishes": [
+    {
+      "name": "Shabu / hotpot",
+      "type": "OLLA COMPARTIDA",
+      "body": "Una olla de caldo en la mesa donde vas cocinando láminas de carne, verduras y noodles, y luego los mojas en distintas salsas. Muy buen plan para comer entre varios y alargar la cena.",
+      "where": "En Bangkok me encantó Masaru, que además lo combina con sushi.",
+      "place": "masaru"
+    },
+    {
+      "name": "Moo ka ta / Moo kratha",
+      "type": "BBQ TAILANDESA",
+      "body": "Una parrilla en la mesa con un borde lleno de caldo: asas la carne arriba y cueces las verduras alrededor. Barbacoa y sopa a la vez, con salsas para ir probando.",
+      "where": "Busca un local de moo kratha para cenar sin prisas.",
+      "search": "Moo Kratha Bangkok"
+    },
+    {
+      "name": "Som tum / Som tam",
+      "type": "ENSALADA DE PAPAYA",
+      "body": "Papaya verde rallada, crujiente, mezclada con lima, tomate y un aliño que combina dulce, ácido y picante. Yo la pediría sin chile y pondría algo de carne a la brasa al lado: el picante aquí va en serio.",
+      "where": "Búscala en locales de comida isan, la cocina del noreste.",
+      "search": "Som Tam Bangkok"
+    },
+    {
+      "name": "Bai liang pad khai",
+      "type": "HOJAS CON HUEVO",
+      "body": "Hojas de una verdura típica del sur salteadas con huevo y ajo, con un sabor suave. Parece poca cosa cuando lo lees en la carta, pero es de esos platos que me sorprendieron muchísimo.",
+      "where": "Lo encontrarás sobre todo en restaurantes de cocina del sur.",
+      "search": "Bai Liang Pad Khai Bangkok"
+    },
+    {
+      "name": "Kor moo yang",
+      "type": "CUELLO DE CERDO A LA BRASA",
+      "body": "Cuello de cerdo marinado y asado, servido en tiras: jugoso por dentro, dorado por fuera y normalmente con una salsa aparte. No es precisamente la opción ligera, pero yo le haría un hueco.",
+      "where": "Combínalo con som tum y arroz pegajoso.",
+      "search": "Kor Moo Yang Bangkok"
+    },
+    {
+      "name": "Khao soi",
+      "type": "CURRY DE COCO + NOODLES",
+      "body": "Una sopa del norte con noodles de huevo, caldo de curry y coco, carne y noodles crujientes por encima. Tiene un toque picante y muchísimo sabor; para mí, de lo mejor que puedes pedir.",
+      "where": "En Koh Tao tengo guardado KHAO SOI IN SOI; en el norte también merece una parada.",
+      "place": "khaosoi"
+    },
+    {
+      "name": "Larb / Laab",
+      "type": "ENSALADA DE CARNE",
+      "body": "Carne picada mezclada con hierbas, lima y, en la versión isan, arroz tostado molido, que le da un punto especial. Se come como una ensalada: fresca, potente y con la carne como protagonista.",
+      "where": "Otro clásico de los locales de comida isan.",
+      "search": "Larb Bangkok"
+    },
+    {
+      "name": "Khao pad",
+      "type": "ARROZ FRITO",
+      "body": "Arroz salteado al wok con huevo, verduras y la carne o el marisco que elijas, acompañado de lima. Es sencillo y entra solo; yo me quedo con las versiones de cangrejo o cerdo.",
+      "where": "Una buena pausa entre currys y sopas de noodles.",
+      "search": "Khao Pad Crab Pork Bangkok"
+    },
+    {
+      "name": "Pad thai",
+      "type": "NOODLES SALTEADOS",
+      "body": "Noodles de arroz salteados con huevo, tofu y una salsa de tamarindo, normalmente con cacahuetes y lima, y a veces gambas. Está rico, aunque para mí tiene más fama de la que merece: hay mucho más que probar.",
+      "where": "Pruébalo, pero deja sitio para el resto de la lista.",
+      "search": "Pad Thai Bangkok"
+    },
+    {
+      "name": "Marisco",
+      "type": "DEL MAR A LA MESA",
+      "body": "Gambas, cangrejo o calamar, a la brasa, al vapor o salteados con ajo y salsas tailandesas. A mí me pareció una forma de comer muy bien sin gastar demasiado.",
+      "where": "Antes de pedir, comprueba si el precio es por pieza o por peso.",
+      "search": "Seafood Bangkok Chinatown"
+    }
+  ],
+  "sources": {
+    "chop": [
+      "Chop Chop: web del restaurante",
+      "https://goldsmithbkk.com/chop-chop-cook-shop/"
+    ],
+    "masaru": [
+      "Masaru: mi enlace guardado",
+      "https://maps.app.goo.gl/BFbGYNGdekBp51HA6"
+    ],
+    "bacc": [
+      "BACC: ubicación y visita",
+      "https://www.bacc.or.th/en/plan-your-visit/"
+    ],
+    "iconsiam": [
+      "SOOKSIAM: web oficial",
+      "https://www.sooksiam.com/"
+    ],
+    "talat": [
+      "Talat Phlu: Turismo de Tailandia",
+      "https://www.tourismthailand.org/Articles/talat-phlu"
+    ],
+    "wang": [
+      "Wang Lang: Turismo de Tailandia",
+      "https://www.tourismthailand.org/Attraction/wang-lang-market-2"
+    ],
+    "flowers": [
+      "Pak Khlong Talat: Turismo de Tailandia",
+      "https://www.tourismthailand.org/Attraction/pak-khlong-talat-night-market"
+    ],
+    "huai": [
+      "Huai Khwang: guía de la ciudad de Bangkok",
+      "https://iao.bangkok.go.th/storage/gallery-image/คู่มือการท่องเที่ยวกรุงเทพปลอดภัย/Huai%20Khwang%20tourist%20site/Huai%20Khwang%20tourist%20site.pdf"
+    ],
+    "forum-market": [
+      "Opiniones sobre mercados: viajeros, 2025",
+      "https://www.reddit.com/r/Bangkok/comments/1idq6wm/"
+    ],
+    "mbk": [
+      "MBK: investigación del DSI tailandés",
+      "https://www.dsi.go.th/en/Detail/bc2fa4c714f4699983c0a38a5a77f123"
+    ],
+    "bangkok": [
+      "Bangkok y mercados: Turismo de Tailandia",
+      "https://www.tourismthailand.org/Destinations/Provinces/Bangkok/219"
+    ],
+    "lim": [
+      "Lim Lao Ngow: noodles y carta",
+      "https://limlaongow.co.th/en"
+    ],
+    "mango": [
+      "K. Panich: guía Michelin",
+      "https://guide.michelin.com/en/bangkok-region/bangkok/restaurant/k-panich"
+    ],
+    "safety": [
+      "Consejos de mar y conducción: FCDO",
+      "https://www.gov.uk/foreign-travel-advice/thailand/safety-and-security"
+    ],
+    "palace": [
+      "Grand Palace: calendario oficial de cierres",
+      "https://www.royalgrandpalace.th/en/schedules"
+    ],
+    "scam": [
+      "Relato de viajero: falso cierre del palacio, 2026",
+      "https://www.reddit.com/r/ThailandTourism/comments/1vek61z/i_almost_fell_for_temple_closed_scam_and_missed/"
+    ],
+    "monsoon": [
+      "Monzones: gobierno de Tailandia",
+      "https://thailand.go.th/public/useful-information-detail/099_143"
+    ],
+    "december": [
+      "Diciembre: Turismo de Tailandia",
+      "https://www.tourismthailand.org/Articles/thailand-december"
+    ],
+    "tao": [
+      "Koh Tao: bahías y monzón",
+      "https://thailand.go.th/visit-thailand-detail/009_113"
+    ],
+    "sam": [
+      "Sam Roi Yot y Phraya Nakhon: directorio oficial",
+      "https://www.thailandtourismdirectory.go.th/en/attraction/1405"
+    ],
+    "chumphon": [
+      "Chumphon: Turismo de Tailandia",
+      "https://www.tourismthailand.org/Destinations/Provinces/Chumphon/343"
+    ],
+    "libong": [
+      "Libong: comunidad y playas",
+      "https://thai.tourismthailand.org/Attraction/เกาะลิบง"
+    ],
+    "dao": [
+      "Chiang Dao: templo de bosque y cueva",
+      "https://www.timeout.com/chiang-mai/travel/chiang-dao"
+    ],
+    "north-forum": [
+      "Pai frente a Chiang Dao: viajeros",
+      "https://www.reddit.com/r/ThailandTourism/comments/1l7v6gq/pai_or_chiang_dao_for_23_nights_in_late_november/"
+    ],
+    "pai": [
+      "Pai y cuevas: Turismo de Tailandia",
+      "https://www.tourismthailand.org/Articles/4-natural-tourist-attractions-in-mae-hong-son"
+    ],
+    "lod": [
+      "Tham Lod y comunidad: Turismo de Tailandia",
+      "https://www.tourismthailand.org/Attraction/mu-ban-tham-lod-tourism-community-mae-hong-son-province"
+    ],
+    "jabo": [
+      "Ban Jabo: comunidad local",
+      "https://www.thailand.go.th/public/useful-information-detail/009_043"
+    ],
+    "rai": [
+      "Mae Salong y el té: turismo oficial en español",
+      "https://www.turismotailandes.com/mae-salong-el-mejor-te-de-tailandia/"
+    ],
+    "mai": [
+      "Wat Umong: Turismo de Tailandia",
+      "https://www.tourismthailand.org/Articles/a-vivid-night-out-in-chiang-mai"
+    ],
+    "nightlife": [
+      "Barrios de Bangkok: guía de la ciudad",
+      "https://invest.bangkok.go.th/area/"
+    ],
+    "soinana": [
+      "Soi Nana en Chinatown: guía del barrio",
+      "https://www.cntraveller.com/gallery/soi-nana-bangkok-neighbourhood-guide"
+    ],
+    "party": [
+      "Khao San, Sukhumvit y Silom: zonas de noche",
+      "https://www.khaosanroad.com/articles/party-streets-in-bangkok-khao-san-sukhumvit-rca-patpong"
+    ],
+    "craft": [
+      "Hair of the Dog: sedes y cervezas",
+      "https://www.hairofthedogbkk.com/"
+    ],
+    "food-south": [
+      "Cocina del sur: Bai Liang Pad Khai",
+      "https://tourismthailand.my/ebook/Travel_With_Care_ENG.pdf"
+    ],
+    "escobar": [
+      "Escobar: calendario de fiestas",
+      "https://www.kohtaoescobar.com/events"
+    ],
+    "ayutthaya": [
+      "Ayutthaya: ciudad histórica UNESCO",
+      "https://whc.unesco.org/en/list/576/"
+    ],
+    "krabi": [
+      "Krabi: Turismo de Tailandia",
+      "https://thai.tourismthailand.org/Destinations/Provinces/กระบี่/344"
+    ],
+    "phuket": [
+      "Phuket: Turismo de Tailandia",
+      "https://thai.tourismthailand.org/Destinations/Provinces/ภูเก็ต/350"
+    ],
+    "muk": [
+      "Koh Muk y las islas de Trang",
+      "https://www.tourismthailand.org/Articles/3-islands-of-trang-sea-a-paradise-for-sea-lovers"
+    ],
+    "boats": [
+      "Consultar rutas de Andamán: Bundhaya",
+      "https://v2.bundhayaspeedboat.com/"
+    ],
+    "grab": [
+      "Grab: transporte en Tailandia",
+      "https://www.grab.com/th/en/transport/"
+    ],
+    "grab-rent": [
+      "Grab Rent: coche con conductor por horas",
+      "https://www.grab.com/th/en/transport/rent/"
+    ],
+    "thai-words": [
+      "Frases en tailandés: documento de bienvenida en Bangkok",
+      "https://www.fisheries-refugia.org/events/181204_1st_PSC/documents/01-FR-PSC1_Inf1_Information%20Note.pdf"
+    ],
+    "patpong": [
+      "Patpong: barrio y precios de los shows",
+      "https://www.bangkokup.com/patpong-bangkok"
+    ],
+    "somos": [
+      "Somos Tailandia: Chiang Mai y alrededores",
+      "https://somostailandia.travel/excursiones/zona/exc-chiang-mai-y-alrededores"
+    ]
+  },
+  "tips": [
+    {
+      "title": "Que un desconocido cambie tu plan.",
+      "body": "Si te dicen que el palacio está cerrado y te ofrecen otro tour, compruébalo en su web o entrada oficial.",
+      "refs": [
+        "palace",
+        "scam"
+      ]
+    },
+    {
+      "title": "Aprender moto en una ruta de montaña.",
+      "body": "Disfruté la moto en zonas rurales, pero conducir en Koh Tao me resultó más difícil. Chiang Mai–Pai exige experiencia; conductor o miniván también permiten disfrutar.",
+      "refs": [
+        "safety"
+      ]
+    },
+    {
+      "title": "Dejar el pasaporte como fianza.",
+      "body": "Para alquilar moto, revisa el contrato, el permiso adecuado, el seguro y el estado del vehículo. Usa casco.",
+      "refs": [
+        "safety"
+      ]
+    },
+    {
+      "title": "Copiar agosto en diciembre.",
+      "body": "Koh Tao puede seguir con monzón. Andamán suele ser mejor apuesta estacional para mar; revisa tiempo y barcos, no una promesa de sol.",
+      "refs": [
+        "tao",
+        "monsoon",
+        "december"
+      ]
+    },
+    {
+      "title": "Llenar el viaje de traslados.",
+      "body": "Dos semanas: Bangkok y una rama del país pueden dar mucho. Deja margen antes del vuelo de regreso y no metas todas las islas.",
+      "refs": []
+    },
+    {
+      "title": "Comprar una expectativa falsa.",
+      "body": "MBK no garantiza originales. Un mercado preparado para visitantes no equivale a vida de barrio. Para mí, Khao San y los rooftops son extras.",
+      "refs": [
+        "mbk",
+        "iconsiam"
+      ]
+    }
+  ],
+  "advice": [
+    {
+      "title": "Grab: para moverte sin complicarte",
+      "tag": "TRANSPORTE",
+      "body": "Es la app tipo Uber del sudeste asiático: puedes pedir coche o taxi y consultar el precio. Para trayectos entre ciudades, mira si acepta el destino y hay conductor disponible.",
+      "extra": "Como orientación, tengo en mente unos 50 € para un coche en un trayecto de unas 3 horas. No es una tarifa fija: confirma el precio, los peajes y el recorrido antes de reservar.",
+      "note": "Grab Rent es el servicio por horas y tiene condiciones de zona y regreso; no es lo mismo que un traslado de ida a otra ciudad.",
+      "refs": [
+        "grab",
+        "grab-rent"
+      ]
+    },
+    {
+      "title": "Mai phet: sin picante, por favor",
+      "tag": "EN LA MESA",
+      "body": "Phet, que suena parecido a «ped», significa picante. Mai phet —también escrito mai ped— significa «no picante»: úsalo al pedir, especialmente con som tum y currys.",
+      "phrase": "ไม่เผ็ด · mai phet",
+      "extra": "También puedes enseñar esta frase. Si el plato lleva una pasta de curry ya preparada, pregunta qué opción pueden hacer más suave.",
+      "note": "",
+      "refs": [
+        "thai-words"
+      ]
+    },
+    {
+      "title": "Ping pong show: una curiosidad de la noche",
+      "tag": "CURIOSIDAD / SOLO ADULTOS (+18)",
+      "body": "Son espectáculos sexuales para adultos, conocidos en zonas de ocio nocturno como Patpong, en Silom. Lo dejo como curiosidad para quien quiera asomarse a ese ambiente.",
+      "extra": "Si te llama la atención, confirma por escrito el precio total de la entrada y las bebidas antes de entrar; no te fíes de una promesa de «gratis».",
+      "note": "Es una curiosidad asociada a la noche tailandesa, no algo exclusivo del país ni una visita imprescindible.",
+      "refs": [
+        "patpong"
+      ]
+    }
+  ],
+  "date": "12 octubre 2026",
+  "regions": {
+    "bangkok": "Bangkok",
+    "sur": "Mar + ruta del sur",
+    "norte": "Montaña + norte",
+    "rutas": "Rutas conocidas"
+  }
+}
