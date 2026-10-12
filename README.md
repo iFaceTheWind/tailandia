@@ -3,7 +3,7 @@
 Una guía visual con recomendaciones personales, naturaleza, comida y opciones para viajar en diciembre. Sin itinerario cerrado.
 
 - **Destinos:** Bangkok, mar/sur, norte y rutas conocidas. Vistas Mapa y Cuaderno.
-- **Platos de comida:** diez platos, explicados en una o dos frases, con enlaces para probarlos.
+- **Platos de comida:** once platos, explicados en una o dos frases, con enlaces para probarlos.
 - **Consejos:** Grab, pedir sin picante, curiosidades y el bloque «Mejor evitar».
 
 Incluye 41 fichas y 21 fotografías con créditos. La sección norte enlaza a Somos Tailandia, una agencia con la que trabajó el autor. Las experiencias propias se distinguen de los recuerdos probables y de las zonas aún no visitadas.

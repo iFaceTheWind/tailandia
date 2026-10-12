@@ -106,6 +106,7 @@ dishes=[
  dict(name='Bai liang pad khai',type='HOJAS CON HUEVO',body='Hojas de una verdura típica del sur salteadas con huevo y ajo, con un sabor suave. Parece poca cosa cuando lo lees en la carta, pero es de esos platos que me sorprendieron muchísimo.',where='Lo encontrarás sobre todo en restaurantes de cocina del sur.',search='Bai Liang Pad Khai Bangkok'),
  dict(name='Kor moo yang',type='CUELLO DE CERDO A LA BRASA',body='Cuello de cerdo marinado y asado, servido en tiras: jugoso por dentro, dorado por fuera y normalmente con una salsa aparte. No es precisamente la opción ligera, pero yo le haría un hueco.',where='Combínalo con som tum y arroz pegajoso.',search='Kor Moo Yang Bangkok'),
  dict(name='Khao soi',type='CURRY DE COCO + NOODLES',body='Una sopa del norte con noodles de huevo, caldo de curry y coco, carne y noodles crujientes por encima. Tiene un toque picante y muchísimo sabor; para mí, de lo mejor que puedes pedir.',where='En Koh Tao tengo guardado KHAO SOI IN SOI; en el norte también merece una parada.',place='khaosoi'),
+ dict(name='Boat noodles / Kuay teow ruea',type='NOODLES EN CALDO',body='Cuencos pequeños de noodles con cerdo o ternera y un caldo oscuro, intenso y especiado. La gracia es pedir varios e ir probando; el nombre viene de cuando los vendían desde barcas.',where='Búscalos por Victory Monument en Bangkok o al pasar por Ayutthaya.',search='Boat noodles Victory Monument Bangkok'),
  dict(name='Larb / Laab',type='ENSALADA DE CARNE',body='Carne picada mezclada con hierbas, lima y, en la versión isan, arroz tostado molido, que le da un punto especial. Se come como una ensalada: fresca, potente y con la carne como protagonista.',where='Otro clásico de los locales de comida isan.',search='Larb Bangkok'),
  dict(name='Khao pad',type='ARROZ FRITO',body='Arroz salteado al wok con huevo, verduras y la carne o el marisco que elijas, acompañado de lima. Es sencillo y entra solo; yo me quedo con las versiones de cangrejo o cerdo.',where='Una buena pausa entre currys y sopas de noodles.',search='Khao Pad Crab Pork Bangkok'),
  dict(name='Pad thai',type='NOODLES SALTEADOS',body='Noodles de arroz salteados con huevo, tofu y una salsa de tamarindo, normalmente con cacahuetes y lima, y a veces gambas. Está rico, aunque para mí tiene más fama de la que merece: hay mucho más que probar.',where='Pruébalo, pero deja sitio para el resto de la lista.',search='Pad Thai Bangkok'),
@@ -121,6 +122,7 @@ tips=[
  dict(title='Comprar una expectativa falsa.',body='MBK no garantiza originales. Un mercado preparado para visitantes no equivale a vida de barrio. Para mí, Khao San y los rooftops son extras.',refs=['mbk','iconsiam'])
 ]
 sources.update({
+ 'boat-noodles':('Boat noodles: plato y dónde probarlo','https://outthailand.com/guide/boat-noodles/'),
  'grab':('Grab: transporte en Tailandia','https://www.grab.com/th/en/transport/'),
  'grab-rent':('Grab Rent: coche con conductor por horas','https://www.grab.com/th/en/transport/rent/'),
  'thai-words':('Frases en tailandés: documento de bienvenida en Bangkok','https://www.fisheries-refugia.org/events/181204_1st_PSC/documents/01-FR-PSC1_Inf1_Information%20Note.pdf'),

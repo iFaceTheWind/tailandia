@@ -865,6 +865,13 @@
       "place": "khaosoi"
     },
     {
+      "name": "Boat noodles / Kuay teow ruea",
+      "type": "NOODLES EN CALDO",
+      "body": "Cuencos pequeños de noodles con cerdo o ternera y un caldo oscuro, intenso y especiado. La gracia es pedir varios e ir probando; el nombre viene de cuando los vendían desde barcas.",
+      "where": "Búscalos por Victory Monument en Bangkok o al pasar por Ayutthaya.",
+      "search": "Boat noodles Victory Monument Bangkok"
+    },
+    {
       "name": "Larb / Laab",
       "type": "ENSALADA DE CARNE",
       "body": "Carne picada mezclada con hierbas, lima y, en la versión isan, arroz tostado molido, que le da un punto especial. Se come como una ensalada: fresca, potente y con la carne como protagonista.",
@@ -1053,6 +1060,10 @@
     "boats": [
       "Consultar rutas de Andamán: Bundhaya",
       "https://v2.bundhayaspeedboat.com/"
+    ],
+    "boat-noodles": [
+      "Boat noodles: plato y dónde probarlo",
+      "https://outthailand.com/guide/boat-noodles/"
     ],
     "grab": [
       "Grab: transporte en Tailandia",
